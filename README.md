@@ -16,3 +16,5 @@ cp .env.template .env
 # run the script
 python3 src/main.py
 ```
+
+Health Q&A data from https://github.com/LasseRegin/medical-question-answer-data
